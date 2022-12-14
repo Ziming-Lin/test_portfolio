@@ -1,8 +1,6 @@
-# My Porfolio
+# My Portfolio
 
-# Project 1 - OneMap-API
-
-Tableau visualisation: https://public.tableau.com/app/profile/ziming.lin/viz/SingaporeStatsfromOneMapAPI/Dashboard1
+# [Project 1 - Visualising Data with Tableau (OneMap API)](https://github.com/Ziming-Lin/OneMap-API)
 
 ![screenshot](https://raw.githubusercontent.com/Ziming-Lin/OneMap-API/main/OneMap.gif)
 
