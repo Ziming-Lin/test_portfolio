@@ -11,10 +11,10 @@
 ### <ins> Project Description </ins>
 
 This Tableau dashboard gives a geographical representation of parameters available through OneMap API. 
- 
- 
- 
- 
+<pre>
+
+
+</pre>
 ## [Tableau #2 - Data Visualisation (SteamSpy API)](https://github.com/Ziming-Lin/steam-stats-steamspy-api)
 ![screenshot](https://raw.githubusercontent.com/Ziming-Lin/steam-stats-steamspy-api/main/steam-viz.gif)
 
