@@ -30,3 +30,4 @@ This Tableau project showcases cluster and trend analysis for market research wi
 ### <ins> Project Description </ins>
 
 Utilising machine learning with the aim to understand the relationship between Singapore's resale flat prices and common price indicators. The project also aims to determine the predictive capabilities of a machine learning model on the subject.
+
