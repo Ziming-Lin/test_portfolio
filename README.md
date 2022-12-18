@@ -1,11 +1,14 @@
 # My Portfolio
-
+ 
+ 
+ 
 ## [Tableau](#Tableau)
 
-## [Machine-Learning](#ML)
-
-
-
+## [Machine Learning](#Machine-Learning)
+ 
+ 
+ 
+ 
 ## <a name="Tableau"></a>[Tableau #1 - Data Visualisation (OneMap API)](https://github.com/Ziming-Lin/OneMap-API)
 ![screenshot](https://raw.githubusercontent.com/Ziming-Lin/OneMap-API/main/OneMap.gif)
 
@@ -28,8 +31,8 @@ This Tableau project showcases cluster and trend analysis for market research wi
 
 
 
-## <a name="ML"></a>[Machine Learning #1 - HDB Resale Flat Prices](https://github.com/Ziming-Lin/ml-hdb-resale-prices)
+## <a name="Machine-Learning"></a>[Machine Learning #1 - HDB Resale Flat Prices](https://github.com/Ziming-Lin/ml-hdb-resale-prices)
 
 ### <ins> Project Description </ins>
 
-Applying machine learning to Singapore's resale flat market with the aim to understand the relationship between resale prices and common price indicators. The project also aims to determine the predictive capabilities of a machine learning model on the subject.
+Utilising machine learning with the aim to understand the relationship between Singapore's resale flat prices and common price indicators. The project also aims to determine the predictive capabilities of a machine learning model on the subject.
