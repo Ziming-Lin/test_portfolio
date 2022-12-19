@@ -3,7 +3,6 @@
 ## [Machine Learning](#Machine-Learning)
 &nbsp;<br>
 &nbsp;<br>
-&nbsp;<br>
 ## <a name="Tableau"></a>[Tableau #1 - Data Visualisation (OneMap API)](https://github.com/Ziming-Lin/OneMap-API)
 ![screenshot](https://raw.githubusercontent.com/Ziming-Lin/OneMap-API/main/OneMap.gif)
 
