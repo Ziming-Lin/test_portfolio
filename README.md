@@ -1,5 +1,7 @@
-- [Tableau](#Tableau)
-- [Machine Learning](#Machine-Learning)
+[Tableau](#Tableau)  
+
+[Machine Learning](#Machine-Learning)  
+
 ---
 
 ## <a name="Tableau"></a>[Tableau #1 - Data Visualisation (OneMap API)](https://github.com/Ziming-Lin/OneMap-API "GitHub Repo")
