@@ -20,7 +20,9 @@ This Tableau dashboard gives a geographical representation of parameters availab
 This Tableau project showcases cluster and trend analysis for market research with data from SteamSpy API.
 &nbsp;<br>
 &nbsp;<br>
+
 ---
+
 ## <a name="Machine-Learning"></a>[Machine Learning #1 - HDB Resale Flat Prices](https://github.com/Ziming-Lin/ml-hdb-resale-prices "GitHub Repo")
 
 ### <ins> Project Description </ins>
